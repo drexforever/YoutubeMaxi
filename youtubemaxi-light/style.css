@@ -1,5 +1,5 @@
 body {
-    background-color:cornsilk;
+    background-color:rgb(237,242,244);
     font-family:'Gill Sans';
     text-align: center;
 }
@@ -49,7 +49,7 @@ button {
     }
 
     button:hover {
-        background-color: cornsilk;
+        background-color: rgb(237,242,244);
         box-shadow: 0 0 0 1px black inset;
     }
 
@@ -208,7 +208,7 @@ footer {
 .calendar-day {
     text-align: center;
     padding: 10px;
-    background-color: cornsilk;
+    background-color: rgb(237,242,244);
     border: 1px solid black;
     border-radius: 5px;
     font-size: 18px;
